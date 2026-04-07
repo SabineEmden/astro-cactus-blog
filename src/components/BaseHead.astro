@@ -66,6 +66,9 @@ const socialImageURL = new URL(ogImage ? ogImage : "/social-card.png", Astro.url
 <meta content={description} property="twitter:description" />
 <meta content={socialImageURL} property="twitter:image" />
 
+{/* Author attribution */}
+<meta name="fediverse:creator" content="@sabineemden@social.tchncs.de" />
+
 {/* Sitemap */}
 <link href="/sitemap-index.xml" rel="sitemap" />
 
