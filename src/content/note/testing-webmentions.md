@@ -1,7 +1,7 @@
 ---
 title: Testing Webmentions
 description: I added webmentions to my personal website and want to test if everything works
-publishDate: "2026-04-06T00:23:59.392Z"
+publishDate: "2026-04-08T17:34:37.807Z"
 ---
 
 I added [webmentions](https://alistapart.com/article/webmentions-enabling-better-communication-on-the-internet/) to this website, following the [instructions](https://astro-cactus.chriswilliams.dev/posts/webmentions/) that came with the Astro Cactus theme. Now I need to check to see if everything works.
