@@ -1,7 +1,7 @@
 ---
 title: Just Write
 description: My goal to publish 100 new posts on my personal website within a year
-publishDate: "2026-04-06T00:23:59.392Z"
+publishDate: "2026-04-10T15:03:12.635Z"
 ---
 
 **Can I publish 100 posts on my personal blog in a year?** I've decided to find out by taking part in [#100DaysToOffload](https://100daystooffload.com/).
