@@ -1,9 +1,8 @@
 ---
 title: "Why My Training as a Chemist Makes Me a Better Web Developer"
 description: "As a chemist, I learned a systematic approach to problem solving, perseverance, and asking for help. These now serve me well as a web developer."
-publishDate: "Nov 22 2024"
+publishDate: "Apr 17 2026"
 tags: ["career"]
-draft: true
 ---
 
 I'm an aspiring web developer and a former chemist. What I bring from chemistry to software development is a systematic approach to problem solving, the grit to not give up easily, and the ability to ask for help.
